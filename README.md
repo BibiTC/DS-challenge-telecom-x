@@ -14,9 +14,8 @@ Explorar los datos, identificar patrones de evasíon y generar recomendaciones e
 
 ## 📁 Estructura del proyecto
 - `TelecomX_LATAM.ipynb`: Notebook con el análisis completo, visualizaciones y reporte final.
-- `Informe_Final_TelecomX`: Carpeta donde se encuentra el Informe Final consolidado y con resumen estructurado del estudio. 
-  - `Informe_Final_TelecomX.md`: Documento con el informe final
-  - `imagenes_word`: carpeta con imagenes del informe importante que se descargue junfo al md
+- `Informe_Final_TelecomX.md`: Documento con el Informe final
+- `imagenes_word`: carpeta con imagenes del informe final importante que se descargue junto al md
 - `README.md`: Este archivo de referencia del proyecto.
 
 - `TelecomX_diccionario.md` : Diccionario del proyecto
